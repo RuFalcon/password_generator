@@ -10,7 +10,7 @@
 - Цифровые символы в пароле;
 - Символы специальных знаков в пароле;
 
-![Password generator](https://filebin.net/xdlc5wtnz3qfcen2/password-generator.gif?t=v2vitcpp "Password generator")
+![Password generator](images/password_generator.gif "Password generator")
 
 ## Установка
 

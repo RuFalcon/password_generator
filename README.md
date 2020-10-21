@@ -10,7 +10,7 @@
 - Цифровые символы в пароле;
 - Символы специальных знаков в пароле;
 
-![Password generator](https://cloclo11.cloud.mail.ru/inline/password_generator.gif "Password generator")
+![Password generator](http://gamedz.ru/wp-content/uploads/2020/password_generator.gif "Password generator")
 
 ## Зависимости
 - PyQt5
